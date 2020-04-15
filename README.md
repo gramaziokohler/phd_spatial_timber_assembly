@@ -8,7 +8,7 @@ The rationale for this arrangement:
 
 - Allow collaborators to clone only their relevant repository.
 - Simplify gitignore setup for different code types
-- Certain repo are setup as installable package
+- Certain repo are reusable and are organized as installable package
 
 ## What is this project about
 
@@ -68,7 +68,7 @@ clamp_controller ![Python Version](https://img.shields.io/badge/Python-cpython%2
 
 - Python-based controller to communicate with a network of distributed clamps. The backend can be interfaced through:
   - UI for monitoring and commanding clamps
-  - via ROS communication (topics / )
+  - via ROS topic 
 - Python functions (via [roslibpy](https://github.com/gramaziokohler/roslibpy)) for process controller to issue clamp commands via ROS.
 
 
