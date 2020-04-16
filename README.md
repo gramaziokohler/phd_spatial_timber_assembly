@@ -16,7 +16,6 @@ The rationale for this arrangement:
 
 This project believes that when a robust lights-out-ready automation is achieved for spatial timber structures, there will be new opportunities for timber structural design.
 
-**Long Version:** You can read the [detailed research plan]().
 **Long Version:** You can read the [detailed research plan](200408_270_ResearchPlan_Submitted_v7.pdf).
 
 ## Architectural Design Repos
@@ -65,7 +64,7 @@ itj_process ![Python Version](https://img.shields.io/badge/Python-cpython%202.x%
 
 - Arduino firmware for motion control and remote communication.
 
-clamp_controller ![Python Version](https://img.shields.io/badge/Python-cpython%203.x-darkgreen)![ROS Version](https://img.shields.io/badge/ROS-kinetic-darkgreen) 
+[clamp_controller](https://github.com/gramaziokohler/clamp_controller) ![Python Version](https://img.shields.io/badge/Python-cpython%203.x-darkgreen)![ROS Version](https://img.shields.io/badge/ROS-kinetic-darkgreen) 
 
 - Python-based controller to communicate with a network of distributed clamps. The backend can be interfaced through:
   - UI for monitoring and commanding clamps
