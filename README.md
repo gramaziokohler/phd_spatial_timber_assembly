@@ -17,6 +17,7 @@ The rationale for this arrangement:
 This project believes that when a robust lights-out-ready automation is achieved for spatial timber structures, there will be new opportunities for timber structural design.
 
 **Long Version:** You can read the [detailed research plan]().
+**Long Version:** You can read the [detailed research plan](200408_270_ResearchPlan_Submitted_v7.pdf).
 
 ## Architectural Design Repos
 
