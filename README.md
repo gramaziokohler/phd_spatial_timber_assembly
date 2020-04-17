@@ -1,4 +1,4 @@
-# PHD - Spatial Timber Assembly
+# PhD - Spatial Timber Assembly
 
 This is a gateway repository consisting the PhD work by Victor Leung in Gramazio Kohler Research. 
 
@@ -40,7 +40,7 @@ itj_design_study ![Rhino Version](https://img.shields.io/badge/Rhino-6-darkgreen
 
 ## Process Design Repos
 
-itj_process ![Python Version](https://img.shields.io/badge/Python-cpython%202.x%20%7C%203.x%20%7C%20ironpython%202.7-darkgreen)
+[itj_process](https://github.com/gramaziokohler/itj_process) ![Python Version](https://img.shields.io/badge/Python-cpython%202.x%20%7C%203.x%20%7C%20ironpython%202.7-darkgreen)
 
 - COMPAS friendly data structure for describing robotic processes. This is separated into 
   - High level process description (e.g pick up tool, pick up element, let go tool, let go element, etc...)
@@ -64,7 +64,7 @@ itj_process ![Python Version](https://img.shields.io/badge/Python-cpython%202.x%
 
 - Arduino firmware for motion control and remote communication.
 
-[clamp_controller](https://github.com/gramaziokohler/clamp_controller) ![Python Version](https://img.shields.io/badge/Python-cpython%203.x-darkgreen)![ROS Version](https://img.shields.io/badge/ROS-kinetic-darkgreen) 
+[clamp_controller](https://github.com/gramaziokohler/clamp_controller) ![Python Version](https://img.shields.io/badge/Python-cpython%203.x-darkgreen) ![ROS Version](https://img.shields.io/badge/ROS-kinetic-darkgreen) 
 
 - Python-based controller to communicate with a network of distributed clamps. The backend can be interfaced through:
   - UI for monitoring and commanding clamps
