@@ -34,9 +34,9 @@ itj_experiments ![Rhino Version](https://img.shields.io/badge/Rhino-6-darkgreen)
   - Assembly Experiments
   - Robotic Action Experiments (RFL Robots and Clamps)
 
-itj_design_study ![Rhino Version](https://img.shields.io/badge/Rhino-6-darkgreen)
+[itj_design_study](https://github.com/gramaziokohler/itj_design_study) ![Rhino Version](https://img.shields.io/badge/Rhino-6-darkgreen)
 
-- Repository for digital design studies. Includes 3D models, robotic simulation and visualization files. 
+- Repository for digital design studies (occasionally include physical prototypes). Includes 3D models, robotic simulation and visualization files.
 
 ## Process Design Repos
 
