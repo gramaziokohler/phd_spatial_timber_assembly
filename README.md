@@ -55,17 +55,17 @@ Ultimately, this research contributes to ongoing efforts to harness the potentia
 
 ## Mechatronics Design Repos
 
-**[clamp_hardware](https://github.com/gramaziokohler/clamp_hardware) **![Rhino Version](https://img.shields.io/badge/Rhino-6-darkgreen)
+**[clamp_hardware](https://github.com/gramaziokohler/clamp_hardware)** ![Rhino Version](https://img.shields.io/badge/Rhino-6-darkgreen)
 
 - DiRT Tools Hardware Design (Clamps, Screwdrivers, Grippers, Docking Adapter, Cable Guides, Scaffolding, Screws, Platform)
 
-**[clamp_electronics](https://github.com/gramaziokohler/clamp_electronics)**![Eagle Version](https://img.shields.io/badge/Eagle-9.6-darkgreen)
+**[clamp_electronics](https://github.com/gramaziokohler/clamp_electronics)** ![Eagle Version](https://img.shields.io/badge/Eagle-9.6-darkgreen)
 
 - Electronics schematics, PCB design for remote controlled clamps.
 
 ## Control Repositories
 
-**[itj_process_controller](https://github.com/gramaziokohler/itj_process_controller) **![Python Version](https://img.shields.io/badge/Python-cpython%202.x%20%7C%203.x%20%7C%20ironpython%202.7-darkgreen)
+**[itj_process_controller](https://github.com/gramaziokohler/itj_process_controller)** ![Python Version](https://img.shields.io/badge/Python-cpython%202.x%20%7C%203.x%20%7C%20ironpython%202.7-darkgreen)
 
 Level 3 Controller to execute planned tasks. It communicates to various Level 2 controllers via ROS:
 
@@ -77,7 +77,7 @@ Level 3 Controller to execute planned tasks. It communicates to various Level 2 
 
 - Level 2 Controller for coordinate Distributed Robotic Tools (DiRT) via radio link. It receives commands from Level 3 Controller and relays the commands to a network of distributed tools. It provides a GUI for monitoring telemetry and sending commands to the distributed devices. The lower level controllers are embedded firmware:
 
-**[clamp_firmware](https://github.com/gramaziokohler/clamp_firmware) **![VS Version](https://img.shields.io/badge/Visual%20Studio-2017-darkgreen) ![VisualMicro Version](https://img.shields.io/badge/Visual%20Micro-20.03+-darkgreen) ![Arduino Version](https://img.shields.io/badge/Arduino%20IDE-1.6,%201.8-darkgreen)
+**[clamp_firmware](https://github.com/gramaziokohler/clamp_firmware)** ![VS Version](https://img.shields.io/badge/Visual%20Studio-2017-darkgreen) ![VisualMicro Version](https://img.shields.io/badge/Visual%20Micro-20.03+-darkgreen) ![Arduino Version](https://img.shields.io/badge/Arduino%20IDE-1.6,%201.8-darkgreen)
 
 Level 1 Embedded Controller (Arduino firmware) for motion control and remote communication.
 
